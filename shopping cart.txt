@@ -1,0 +1,2 @@
+commodityID,commodityName,price,number,description,sellerID,addedDate,state,buyerID
+,,-9.25596e+61,-858993460,,,,remove,

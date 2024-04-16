@@ -1,0 +1,2 @@
+commodityID,commodityName,price,number,description,sellerID,addedDate,state
+M001,ba,12,8,ad,U001,2022-03-08,onSale
